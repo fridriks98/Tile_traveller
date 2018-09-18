@@ -10,3 +10,4 @@
 # Ef áttin sem hann valdi er ein af þeim sem er í boði, breytast hnitin.
 # Ef notandi velur átt sem er ekki í boði eða slær inn ehv annað en það sem er í orðalistanum, kemur invalid input.
 # Forritið á að halda áfram þangað til notandi kemst á reit (3,1). Þá prentast út Victory og forritið hættir að keyra
+#
