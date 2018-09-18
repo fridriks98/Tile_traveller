@@ -3,9 +3,9 @@
 # forritið lætur notanda byrja í (1,1)
 # Áttirnar sem eru í boði eru:
 # (N)orth == y hnit +1
-  (E)ast == x hnit +1
-  (W)est == x hnit -1
-  (S)outh == y hnit -1
+# (E)ast == x hnit +1
+# (W)est == x hnit -1
+# (S)outh == y hnit -1
 # Eftir það fær notandi að velja átt.
 # Ef áttin sem hann valdi er ein af þeim sem er í boði, breytast hnitin.
 # Ef notandi velur átt sem er ekki í boði eða slær inn ehv annað en það sem er í orðalistanum, kemur invalid input.
