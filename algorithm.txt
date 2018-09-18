@@ -1,0 +1,19 @@
+Ég bý til breytu xy_pos og gef henni gildið 1 fyrir kassa 1 (s.s. hnit 1,1)
+
+síðan bý ég til breytur fyrir allar áttirnar
+
+Næst bý ég til endalausa while lúppu. Í henni keyri ég alveg þangað til
+notandinn er kominn á reit (3,1). Þá prentast út victory og síðan breakar
+forritið úr lúppunni. 
+ég bý til nokkrar if og elif setningar þar sem það er mismunandi
+hvaða áttir eru í boði eftir því hvaða hniti maður er í.
+
+Eftir að það hefur prentast út hvaða áttir eru í boði, 
+læt ég forritið spyrja notandann hvaða átt hann vilji fara í.
+
+Ef að notandinn slær inn átt sem er ekki í boði, prentast út:
+"Not a valid input!" og forritið biður hann að slá aftur inn átt.
+
+
+
+ 
