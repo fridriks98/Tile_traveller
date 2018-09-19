@@ -1,18 +1,18 @@
-Ég bı til breytu xy_pos og gef henni gildiğ 1 fyrir kassa 1 (s.s. hnit 1,1)
+Ã‰g bÃ½ til breytu xy_pos og gef henni gildiÃ° 1 fyrir kassa 1 (s.s. hnit 1,1)
 
-síğan bı ég til breytur fyrir allar áttirnar
+sÃ­Ã°an bÃ½ Ã©g til breytur fyrir allar Ã¡ttirnar
 
-Næst bı ég til endalausa while lúppu. Í henni keyri ég alveg şangağ til
-notandinn er kominn á reit (3,1). Şá prentast út victory og síğan breakar
-forritiğ úr lúppunni. 
-ég bı til nokkrar if og elif setningar şar sem şağ er mismunandi
-hvağa áttir eru í boği eftir şví hvağa hniti mağur er í.
+NÃ¦st bÃ½ Ã©g til endalausa while lÃºppu. Ã henni keyri Ã©g alveg Ã¾angaÃ° til
+notandinn er kominn Ã¡ reit 7( hnit: 3,1). ÃÃ¡ prentast Ãºt victory og sÃ­Ã°an breakar
+forritiÃ° Ãºr lÃºppunni. 
+Ã©g bÃ½ til nokkrar if og elif setningar Ã¾ar sem Ã¾aÃ° er mismunandi
+hvaÃ°a Ã¡ttir eru Ã­ boÃ°i eftir Ã¾vÃ­ hvaÃ°a hniti maÃ°ur er Ã­.
 
-Eftir ağ şağ hefur prentast út hvağa áttir eru í boği, 
-læt ég forritiğ spyrja notandann hvağa átt hann vilji fara í.
+Eftir aÃ° Ã¾aÃ° hefur prentast Ãºt hvaÃ°a Ã¡ttir eru Ã­ boÃ°i, 
+lÃ¦t Ã©g forritiÃ° spyrja notandann hvaÃ°a Ã¡tt hann vilji fara Ã­.
 
-Ef ağ notandinn slær inn átt sem er ekki í boği, prentast út:
-"Not a valid input!" og forritiğ biğur hann ağ slá aftur inn átt.
+Ef aÃ° notandinn slÃ¦r inn Ã¡tt sem er ekki Ã­ boÃ°i, prentast Ãºt:
+"Not a valid direction!" og forritiÃ° biÃ°ur hann aÃ° slÃ¡ aftur inn Ã¡tt.
 
 
 
