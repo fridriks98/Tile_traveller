@@ -5,11 +5,8 @@ N = "(N)orth"
 S = "(S)outh"
 W = "(W)est"
 
-while True:
+while xy_pos != 7:
     Bool = True
-    if xy_pos == 7:
-        print("Victory!")
-        break
     elif xy_pos == 8:
         print("You can travel: {} or {}.".format(N,S))
     elif xy_pos == 5 or xy_pos == 9:
@@ -40,5 +37,5 @@ while True:
 
         if Bool:
             print("Not a valid direction!")
-             
-        
+            
+print("Victory!")
